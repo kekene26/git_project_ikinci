@@ -6,6 +6,7 @@ public class Deneme {
 		
 		System.out.println("ikinci git proje");
 		System.out.println("ikinci satýr");
+		System.out.println("Ucuncu satýr");
 
 	}
 
